@@ -16,4 +16,4 @@
 
 ### Call for papers
 
-[qui](https://github.com/socialstat/socialstat.github.io/prova.md)
+[qui](./prova.md)
