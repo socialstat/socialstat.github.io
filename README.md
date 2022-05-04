@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Incontro Scientifico degli Statistici Sociali
 
-You can use the [editor on GitHub](https://github.com/socialstat/socialstat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Quando?** Venerdi 20 settembre dalle ore 11:00
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Dove?** A Treviso, nella cornice del Festival della Statistica, presso la sede della Camera di Commercio di Treviso, in Piazza Borsa
 
-### Markdown
+**Come?** Presentazioni veloci di 10 minuti e 5 minuti di tempo per una discussione finale a sessione. Sono 4 le sessioni individuate: 
+- Salute e Societa
+- Indicatori
+- Turismo e Mercato del Lavoro
+- Societ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CALL FOR PAPERS
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/socialstat/socialstat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[qui](https://github.com/socialstat/socialstat.github.io/prova.md)
