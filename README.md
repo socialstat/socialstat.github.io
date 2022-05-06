@@ -6,17 +6,8 @@
 
 **Come?** Presentazioni veloci di 10 minuti e 5 minuti di tempo per una discussione finale a sessione. 
 
-Sono 4 le sessioni individuate: 
 
-1. Salute e Società
-
-2. Indicatori
-
-3. Turismo e Mercato del Lavoro
-
-4. Società
-
-La registrazione è obbligatoria per tutti i partecipanti. (link registrazione)
+La registrazione � obbligatoria per tutti i partecipanti. (link registrazione)
 
 ### Call for papers
 
