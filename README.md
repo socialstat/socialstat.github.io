@@ -1,6 +1,6 @@
 ## Incontro Scientifico degli Statistici Sociali
 
-\textcolor{red}{**Quando?**} Sabato 17 settembre dalle ore 11:00
+**Quando?** Sabato 17 settembre dalle ore 11:00
 
 **Dove?** A Treviso, nella cornice del Festival della Statistica, presso la sede della Camera di Commercio di Treviso, in Piazza Borsa
 
