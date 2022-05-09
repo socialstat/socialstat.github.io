@@ -7,8 +7,6 @@
 **Come?** Presentazioni veloci di 10 minuti e 5 minuti di tempo per una discussione finale a sessione. 
 
 
-La registrazione ? obbligatoria per tutti i partecipanti. (link registrazione)
-
 ### Call for papers
 
 Gli autori che desiderano presentare un contributo sono invitati a sottomettere il paper compilando il seguente [google form](https://forms.gle/Fv549MGkQ5Lkw4NS8). La deadline per la submission è il 31 Maggio 2022.
