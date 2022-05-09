@@ -7,7 +7,7 @@
 **Come?** Presentazioni veloci di 10 minuti e 5 minuti di tempo per una discussione finale a sessione. 
 
 
-La registrazione è obbligatoria per tutti i partecipanti. (link registrazione)
+La registrazione ? obbligatoria per tutti i partecipanti. (link registrazione)
 
 ### Call for papers
 
