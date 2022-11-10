@@ -1,0 +1,33 @@
+Negli ultimi anni, lo sviluppo delle tecniche di topic modeling ?? stato sempre pi?? repentino. Il topic
+modeling costituisce un insieme di metodi utilizzati per scoprire la struttura semantica sottostante di
+un corpus testuale, identificando e quantificando l&#39;importanza di argomenti rappresentativi, i topics,
+all&#39;interno dei documenti. Tecniche di topic modeling come la Non-Negative Matrix Factorization
+(NMF) sono state ampiamente adottate negli ultimi decenni nel campo del text mining. Nello
+specifico, la NMF ?? una tecnica di riduzione matriciale con vincolo di non negativit??. Nel
+contributo considerato, viene utilizzata nella sua applicazione di topic modeling, ovvero come
+strumento di analisi ed estrazione dei topic caratteristici. Pi?? specificatamente, ci si concentra sulla
+versione simmetrica, la Symmetric Non-Negative Matrix Factorization (SymNMF). Essa parte da
+una matrice simmetrica e permette di identificare al meglio i cluster di termini che vanno a
+caratterizzare i temi caratteristici da corpora testuali. Il lavoro, infatti, si propone di analizzare la
+produzione scientifica degli ultimi due decenni sul tema della ???day surgery??? per individuare i
+principali argomenti su cui si articola la letteratura medica e individuare analogie e differenze tra la
+produzione italiana e quella internazionale. Per fare ci?? verr?? utilizzata la SymNMF applicata agli
+abstract degli articoli, atti di convegno e articoli di review estratti da Web of Science (WoS) in un
+periodo temporale che va dal 2002, anno di approvazione delle ???Linee Guida per le attivit?? di day
+surgery??? in Italia, al 2021. La pratica della ???day surgery??? sta diventando una procedura sempre pi??
+diffusa in tutto il mondo: in molti Paesi europei e nordamericani, pi?? della met?? degli interventi
+chirurgici viene eseguita in day surgery. Queste procedure costituiscono un regime di cura
+alternativo al ricovero ordinario, contribuendo al miglioramento complessivo dell&#39;efficienza delle
+strutture. In questo modo, il sistema sanitario garantisce l&#39;esecuzione programmata di interventi
+chirurgici invasivi e semi-invasivi che, per complessit??, durata, rischio di complicanze e condizioni
+del paziente, sono eseguibili nell&#39;arco della stessa giornata, senza la successiva necessit?? di
+un???osservazione post-operatoria. I vantaggi clinici, economici e sociali associati a procedure
+particolarmente sicure e a bassi tassi di mortalit?? e i paralleli progressi nelle tecnologie diagnostiche
+e terapeutiche hanno portato a un aumento del ricorso alla day surgery e alle procedure di chirurgia
+ambulatoriale. Negli ultimi 20 anni, anche in Italia, la chirurgia ha subito una significativa
+evoluzione dei servizi sanitari a livello didattico e organizzativo. Queste pratiche fanno parte di un
+pi?? ampio processo di ottimizzazione ospedaliera che ha interessato il contesto nazionale e
+internazionale. Da qui scaturisce l???interesse del lavoro per individuare i temi dalla produzione
+scientifica e definire le differenze tra la produzione internazionale, incentrata sul management
+ospedaliero e migliori condizioni pre e post-operatorie per il paziente, e la produzione italiana,
+fondata sul trattamento delle procedure effettuate in day surgery, soprattutto su pazienti anziani.
