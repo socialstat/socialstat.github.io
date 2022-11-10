@@ -7,8 +7,8 @@
 **Come?** Presentazioni veloci di 10 minuti e 5 minuti di tempo per una discussione. 
 
 
-[Call for papers](Call.md) **CHIUSE**
+[Call for papers](Call.md) **CHIUSA**
 
-[Programma](Programma.md) **CHIUSA**
+[Programma](Programma.md) 
 
 Si prega di compilare il seguente [google form](https://docs.google.com/forms/d/e/1FAIpQLSefR50yTwASOkDy1dq2ZXX82HibEupnyZf5ry3vKR6KKraFfg/viewform?usp=pp_url) per organizzare al meglio l'incontro e la cena sociale che si svolgerà Venerdì sera (ora e luogo verranno comunicati a breve).
