@@ -8,7 +8,6 @@ output:
 Incontro Scientifico degli Statistici Sociali {.poster-title}
 ================================================================================
 
-
 ```{r, echo = FALSE, fig.align='center'}
 knitr::include_graphics("Logo_News.jpg")
 ```
@@ -44,8 +43,6 @@ knitr::include_graphics("Logo_News.jpg")
 | Demetrio Panarello  | Job loss and financial struggle among the older age groups in 2021: Lessons from the European Union | 18.00-18.15  | 
 | Ida Camminatiello | Proposte per risolvere i problemi di multicollinearità e valori anomali nei modelli logit | 18.15-18.30  |  
 
-
-
 **SABATO 3 DICEMBRE** {.S6}
 ================================================================================
 
@@ -68,8 +65,13 @@ knitr::include_graphics("Logo_News.jpg")
   | Marco Tosi  | Family complexity and intergenerational solidarity  | 11.15-11.30  | 
   
 
-Contatti {.S9}
+Informazioni {.S9}
 ================================================================================
-  
+
+L'evento avrà luogo presso il palazzo San Lorenzo dell'Università Ca' Foscari, Riviera Garibaldi, Treviso
+
+**Contatti**:
+
   - Web: https://socialstat.github.io/
+  
   - Email: angela.andreella@unive.it
