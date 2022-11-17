@@ -4,7 +4,7 @@
 
 **Dove?** A Treviso, nella cornice del Festival della Statistica, presso la sede dell'università Ca' Foscari: **Palazzo San Lorenzo, Riviera Garibaldi**. 
 
-**Come?** Presentazioni in formato "veloce" e ispirate a "show more speak less" stile [Pecha Kucha] (https://meeting-hub.net/blog/pechakucha)
+**Come?** Presentazioni in formato "veloce" e ispirate a "show more speak less" stile [Pecha Kucha](https://meeting-hub.net/blog/pechakucha)
 
 
 [Call for papers](Call.md) **CHIUSA**
