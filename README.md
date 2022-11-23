@@ -4,7 +4,7 @@
 
 **Dove?** A Treviso, nella cornice del Festival della Statistica, presso la sede dell'università Ca' Foscari: 
 
-- **Venerdì 2 dicembre**: Aula 7, Palazzo San Paolo.
+- **Venerdì 2 dicembre**: Aula 4, Palazzo San Paolo.
 - **Sabato 3 dicembre**: Aula magna, Palazzo San Lorenzo.
 
 **Come?** Presentazioni in formato "veloce" e ispirate a "show more speak less" stile [Pecha Kucha](https://meeting-hub.net/blog/pechakucha)
