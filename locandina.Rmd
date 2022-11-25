@@ -8,14 +8,14 @@ output:
 Incontro Scientifico degli Statistici Sociali {.poster-title}
 ================================================================================
 
-<img src="Logo_News.jpg" width="12%"/> <img src="Logo_unive.png" width="5%"/>
+<img src="Logo_News.jpg" width="15%"/> <img src="Logo_unive.png" width="8%"/>
 
 
 
 **VENERDì 2 DICEMBRE** {.S2}
 ================================================================================
 
-**Educazione (dropout)** (Moderatore: Giulio Ghellini) {.S3}
+**Educazione (dropout)** (Moderatore: G. Ghellini) {.S3}
 ================================================================================
 | Speaker  | Talk  | Orario  |
 |---|---|---|
@@ -26,7 +26,7 @@ Incontro Scientifico degli Statistici Sociali {.poster-title}
 | **COFFEE BREAK** | | 16.00-16.30|
 
 
-**Servizi** (Moderatore: Stefano Campostrini) {.S4}
+**Servizi** (Moderatore: S. Campostrini) {.S4}
 ================================================================================
 | Speaker  | Talk  | Orario  |
 |---|---|---|
@@ -35,7 +35,7 @@ Incontro Scientifico degli Statistici Sociali {.poster-title}
 | Pietro Renzi  | Methodological issues in measuring health inequality  | 17.00-17.15  | 
 | Agostino Stavolo | La Symmetric Non-Negative Matrix Factorization per l'analisi del dibattito scientifico sulla day surgery: un confronto tra la produzione scientifica internazionale e italiana   | 17.15-17.30  |  
 
-**Miscellanea** (Moderatore: Mariano Porcu) {.S5}
+**Miscellanea** (Moderatore: M. Porcu) {.S5}
 ================================================================================
 | Speaker  | Talk  | Orario  |
 |---|---|---|
@@ -44,12 +44,13 @@ Incontro Scientifico degli Statistici Sociali {.poster-title}
 | Demetrio Panarello  | Job loss and financial struggle among the older age groups in 2021: Lessons from the European Union | 18.00-18.15  | 
 | Ida Camminatiello | Proposte per risolvere i problemi di multicollinearità e valori anomali nei modelli logit | 18.15-18.30  |  
 
+
 **SABATO 3 DICEMBRE** {.S6}
 ================================================================================
 
 
 
-**Immigrazione e indicatori** (Moderatore: Giovanna Boccuzzo) {.S7}
+**Immigrazione e indicatori** (Moderatore: G. Boccuzzo) {.S7}
 ================================================================================
 | Speaker  | Talk  | Orario  |
 |---|---|---|
@@ -57,7 +58,7 @@ Incontro Scientifico degli Statistici Sociali {.poster-title}
 | Simone Del Sarto  | Measuring the risk of corruption: modern data integration on Italian public procurement data as an instrumental step to develop a composite indicator for corruption risk  | 10.00-10.15  | 
 | **COFFEE BREAK** | | 10.15-10.45|
 
-**Educazione e famiglie** (Moderatore: Massimo Attanasio) {.S8}
+**Educazione e famiglie** (Moderatore: M. Attanasio) {.S8}
 ================================================================================
   | Speaker  | Talk  | Orario  |
   |---|---|---|
