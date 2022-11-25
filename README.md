@@ -2,10 +2,7 @@
 
 **Quando?** Venerdì 2 dicembre 2022 dalle ore 15 alle 18.30, Sabato 3 dicembre 2022 dalle ore 9.30 alle ore 12.30.
 
-**Dove?** A Treviso, nella cornice del Festival della Statistica, presso la sede dell'università Ca' Foscari: 
-
-- **Venerdì 2 dicembre**: Aula 4, Palazzo San Paolo.
-- **Sabato 3 dicembre**: Aula magna, Palazzo San Lorenzo.
+**Dove?** A Treviso, nella cornice del Festival della Statistica, presso la sede dell'università Ca' Foscari: Aula magna, Palazzo San Leonardo. 
 
 **Come?** Presentazioni in formato "veloce" e ispirate a "show more speak less" stile [Pecha Kucha](https://meeting-hub.net/blog/pechakucha)
 
