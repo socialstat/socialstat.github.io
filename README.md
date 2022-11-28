@@ -11,4 +11,4 @@
 
 [Programma](Programma.md) 
 
-Si prega di compilare il seguente [google form](https://docs.google.com/forms/d/e/1FAIpQLSefR50yTwASOkDy1dq2ZXX82HibEupnyZf5ry3vKR6KKraFfg/viewform?usp=pp_url) per organizzare al meglio l'incontro e la cena sociale che si svolgerà Venerdì sera (ora e luogo verranno comunicati a breve).
+Si prega di compilare il seguente [google form](https://docs.google.com/forms/d/e/1FAIpQLSefR50yTwASOkDy1dq2ZXX82HibEupnyZf5ry3vKR6KKraFfg/viewform?usp=pp_url) per organizzare al meglio l'incontro e la cena sociale che si svolgerà Venerdì sera (ore 20.00 presso la Trattoria 2 Mori, Treviso).
