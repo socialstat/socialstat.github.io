@@ -8,7 +8,7 @@ output:
 Incontro Scientifico degli Statistici Sociali {.poster-title}
 ================================================================================
 
-<img src="Logo_News.jpg" width="15%"/> <img src="logo_dipEco.jpg" width="15%"/>
+<img src="Logo_News.jpg" width="18%"/> <img src="Logo_dipEco.png" width="15%"/>
 
 
 
@@ -26,7 +26,7 @@ Incontro Scientifico degli Statistici Sociali {.poster-title}
 | **COFFEE BREAK** | | 16.00-16.30|
 
 
-**Servizi** (Moderatore: E. Aliverti) {.S4}
+**Servizi** (Moderatore: S. Campostrini) {.S4}
 ================================================================================
 | Speaker  | Talk  | Orario  |
 |---|---|---|
